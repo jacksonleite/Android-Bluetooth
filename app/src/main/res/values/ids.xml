@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btResult" type="id">Result</item>
+    <item name="tempButton" type="id">Temp</item>
+    <item name="lightOn" type="id">Light On</item>
+    <item name="lightOff" type="id">Light Off</item>
+</resources>
