@@ -15,19 +15,10 @@
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
-        android:text="Bluetooth Blaster"
+        android:text="Android Bluetooth"
         android:textAlignment="center"
         android:textColor="#030013"
         android:textSize="35dp" />
-
-    <ImageView
-        android:id="@+id/imageView"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_below="@+id/textView"
-        android:layout_centerHorizontal="true"
-        android:src="@drawable/the_iin_group"
-        android:theme="@style/Base.TextAppearance.AppCompat" />
 
     <Button
         android:id="@+id/button"
